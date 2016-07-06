@@ -1,0 +1,91 @@
+#page-title-b{
+font-size: 1em;
+position: relative;
+margin-top:5%;
+margin-left: 10%;
+}
+#page-title-b a{
+color:#595959;
+text-decoration: none;
+}
+#page-title-b a:hover{
+color:#ff0040;
+text-decoration: none;
+}
+#page-title{
+font-size: 2.4em;
+position: relative;
+margin-top:5%;
+margin-left: 10%;
+}
+#page-title a{
+color:#595959;
+text-decoration: none;
+}
+#page-title a:hover{
+color:#ff0040;
+text-decoration: none;
+}
+#title-ug{
+position:relative;
+margin-top: 12%;
+margin-left: 10%;
+font-family: Oxygen;
+font-size: 1.5em;
+font-weight: 400;
+letter-spacing: 0.13rem;
+display: block;
+}
+#title-ug a{
+color:#595959;
+text-decoration: none;
+}
+#title-ug a:hover{
+color:#ff0040;
+text-decoration: none;
+}
+#content-ug{
+display: block;
+position:relative;
+margin-left: 10%;
+/*margin-top: -1%;*/
+font-family: Oxygen;
+font-size: .9em;
+font-weight: 300;
+/*margin-top: -1%;*/
+}
+#content-ds{
+display: block;
+position:relative;
+margin-left: 10%;
+/*margin-top: -1%;*/
+font-family: Oxygen;
+font-size: .9em;
+margin-top: 1.5%;
+}
+#content-ds a{
+	color: #595959;
+	text-decoration: none;
+}
+#content-ds a:hover{
+	color: #ff0040;
+	text-decoration: none;
+}
+#footer-ug{
+display: block;
+position:relative;
+margin-left: 10%;
+margin-top: 1%;
+font-family: Oxygen;
+font-size: 1.3em;
+}
+#footer-ug i{
+	padding-right: 2%;
+}
+#footer-ug a{
+	padding-right: 2%;
+	color: #595959;
+}
+#footer-ug a:hover{
+	color: #ff0040;
+}
